@@ -44,6 +44,7 @@
 - 🌞Improve data correctness
 
 ### 👨🏻‍💻See our code [Here](https://github.com/ronysamuel29/Face-Landmark-Recognition/blob/main/app.py)
+### 📄See our Document Report Draft [Here](https://docs.google.com/document/d/1Y9PkrO7Qaa-2wMAwk-Iuntgg-oQ92GfO/edit?usp=sharing&ouid=102747022193149404604&rtpof=true&sd=true)
 
 ```sh
 NOTE:
