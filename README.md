@@ -1,6 +1,7 @@
 
 # Face-Landmark-Recognition
-```Final project for Artificial Intelligence course```
+```Final project for Artificial Intelligence course``` 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ronysamuel29.Face-Landmark-Recognition)
 ![1-DKSQVZdEa2GEv2ksxWViTg](https://user-images.githubusercontent.com/71369255/210376509-64fd5e75-ec18-412b-907b-b8217a131ca9.gif)
 
 
