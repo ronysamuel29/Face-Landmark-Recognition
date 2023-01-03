@@ -45,6 +45,7 @@
 ### 👨🏻‍💻See our code [Here](https://github.com/ronysamuel29/Face-Landmark-Recognition/blob/main/app.py)
 
 ```sh
+NOTE:
 In this repository all planned implementations have not been completed properly,
 it may take longer to do further improvements
 thanks
