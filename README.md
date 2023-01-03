@@ -1,10 +1,11 @@
 
 # Face-Landmark-Recognition
+```Final project for Artificial Intelligence course```
 ![1-DKSQVZdEa2GEv2ksxWViTg](https://user-images.githubusercontent.com/71369255/210376509-64fd5e75-ec18-412b-907b-b8217a131ca9.gif)
 
-```Final project for Artificial Intelligence course```
 
-## 📌Background
+
+## 🙋🏻‍♂️Why we need ```Face Landmark Recognition``` in checking attendance❕❔❗❓
 + The usual use of facial recognition may be reduced by using photos/videos in front of the scanner
 + Difficulties in Manual Attendance Tracking:
   + There is a risk of human error
@@ -34,6 +35,12 @@
 - ```🔎Face Detection:``` Locate faces and draw bounding boxes around faces and keep the coordinates of bounding boxes.
 - ```👀Face Recognition:``` Matching with one or more faces by using facial landmarks then the faces are checked in the database.
 - ```😋Face Movement:``` Match the movement with the given command.
+
+## Impact
+- ⌛Save time and efficiency
+- ⚖️Reduce fraudulent actions
+- 👍🏻Reduce the occurrence of human errors
+- 🌞Improve data correctness
 
 ### 👨🏻‍💻See our code [Here]
 
