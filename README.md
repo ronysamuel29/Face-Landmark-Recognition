@@ -6,7 +6,7 @@
 
 
 
-## 🙋🏻‍♂️Why we need ```Face Landmark Recognition``` in checking attendance❕❔❗❓
+## 🙋🏻‍♂️Why we need ```Face Landmark Recognition``` in checking attendance❔
 + The usual use of facial recognition may be reduced by using photos/videos in front of the scanner
 + Difficulties in Manual Attendance Tracking:
   + There is a risk of human error
@@ -32,12 +32,12 @@
 ![Presentation1](https://user-images.githubusercontent.com/71369255/210374364-5ee5d834-5292-4b1e-840c-9378f55783c7.png)
 
 
-## Algorithm implementation
+## ✨Algorithm implementation
 - ```🔎Face Detection:``` Locate faces and draw bounding boxes around faces and keep the coordinates of bounding boxes.
 - ```👀Face Recognition:``` Matching with one or more faces by using facial landmarks then the faces are checked in the database.
 - ```😋Face Movement:``` Match the movement with the given command.
 
-## Impact
+## 🍻Impact
 - ⌛Save time and efficiency
 - ⚖️Reduce fraudulent actions
 - 👍🏻Reduce the occurrence of human errors
